@@ -1,0 +1,7 @@
+YaDiskClient
+deflacue
+console_progressbar
+pylast
+aiohttp
+pytube
+ffmpy3
